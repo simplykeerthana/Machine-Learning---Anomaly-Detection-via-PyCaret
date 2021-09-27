@@ -15,3 +15,14 @@ Pycaret also has modules for
 3. Clustering
 4. Natural Language Processing
 5. Association Rules Mining
+
+I will also explore the other modules because it will be useful for my research. 
+
+
+The Project Structure 
+
+Task 1: Import data and exploratory anomalies detection analysis
+Task 2: Setup PyCaret environment for anomaly detection
+Task 3: slect and create the models.
+Task 4: Compare anomalies in models
+Finally: Visualize, interpret, decisions & save model. 
